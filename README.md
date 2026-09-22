@@ -1,7 +1,11 @@
 # CaesarVault
-##### A python script that shifts each character with a random volume (0~9)
+#### A python script that shifts each character with a random volume (0~9)
 # THIS SCRIPT IS MADE BY GEMINI 3.6 FLASH. RECODED BY CHATGPT 5.6 LUNA
-## UPDATE LOG 2026/SEP/22
-#### COMPLETELY RECODED BY CHATGPT 5.6 LUNA
-#### Added salt (random ascii.lowercase strings will be added into the output)
-#### The key will be outputted at the following format: [CaeserShift][SaltMeta][SaltMetaLength]
+# Update Log 2026/SEP/22:
+
+- #### Completely recoded script
+
+## New Features:
+- #### Added salt (random ascii_lowercase letters will be inserted into your string)
+- #### The key will be outputted at the following format:
+#### [CaeserShift][SaltMetadata][SaltMetadataLength]
