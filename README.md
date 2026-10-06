@@ -1,7 +1,8 @@
 # CaesarVault
 #### A python script that shifts each character with a random volume (0~9)
 # THIS SCRIPT IS MADE BY GEMINI 3.6 FLASH. RECODED BY CHATGPT 5.6 LUNA
-
+## Notice
+#### This script is NOT safe. Please DO NOT use it to protect your sensitive data
 # Update Log 2026/SEP/22:
 
 - ##### Completely recoded script
